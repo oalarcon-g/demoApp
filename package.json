@@ -73,7 +73,7 @@
       "cordova-plugin-ionic-webview": {},
       "cordova-plugin-ionic-keyboard": {},
       "cordova-plugin-ionic": {
-        "APP_ID": "7ee2c00c",
+        "APP_ID": "91cec38c",
         "CHANNEL_NAME": "Master",
         "UPDATE_METHOD": "background",
         "MAX_STORE": "2",

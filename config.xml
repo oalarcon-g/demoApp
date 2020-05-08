@@ -148,7 +148,7 @@
     <plugin name="cordova-plugin-ionic-keyboard" spec="^2.0.5" />
     <plugin name="cordova-plugin-nativeaudio" spec="^3.0.9" />
     <plugin name="cordova-plugin-ionic" spec="^5.4.7">
-        <variable name="APP_ID" value="7ee2c00c" />
+        <variable name="APP_ID" value="91cec38c" />
         <variable name="CHANNEL_NAME" value="Master" />
         <variable name="UPDATE_METHOD" value="background" />
         <variable name="MAX_STORE" value="2" />

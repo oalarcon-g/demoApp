@@ -1,5 +1,7 @@
 {
   "name": "motherApp",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
